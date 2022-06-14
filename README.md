@@ -1,15 +1,13 @@
 <div align="center">  <h1> Seja bem-vindo ao meu GitHub </h1> </div>
 
-<div align="center"> <h2> Sou o Alexandre Medeiros ✌️ </h2>  <img align="center" alt="Alexandre-img" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/94659875/173669063-3b05f0c4-6de8-4446-aa0b-5cd1ab0d1015.png">
-     </div>
+<div align="center"> <h2> Sou o Alexandre Medeiros ✌️ </h2> <img align="center" alt="Alexandre-img" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/94659875/173669063-3b05f0c4-6de8-4446-aa0b-5cd1ab0d1015.png">
+ </div>
 <div align="center"> 
- <h3> 🧑‍🎓 Atualmente estou graduando em Sistemas de informação 2º Semestre </h3>
-</div>
-<div align="center"> 
- <h3> e buscando uma oportunidade para inserção no mercado de trabalho. </h3>
-</div>
-<div align="center">
- <h3> 📚 Estou estudando JavaScript, HTML5 e CSS3. </h3>
+ <h3> 🧑‍🎓 Atualmente estou graduando em Sistemas de informação 2º Semestre
+<br> <br>
+e buscando uma oportunidade para inserção no mercado de trabalho.
+<br> <br>
+📚 Estou estudando JavaScript, HTML5 e CSS3.
 </div>
 
 <div align="center"><br>
