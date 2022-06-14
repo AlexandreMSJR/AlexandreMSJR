@@ -1,16 +1,13 @@
-### Hi there 👋
+# Seja bem-vindo ao meu GitHub.
 
-<!--
-**AlexandreMSJR/AlexandreMSJR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ## Sou o Alexandre Medeiros ✌️
 
-Here are some ideas to get you started:
+### - 🧑‍🎓 Atualmente estou graduando em Sistemas de informação e estou 2º Semestre.
+### - 📚 Estou estudando JavaScript, HTML5 e CSS3.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt="Alexandre-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Alexandre-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Alexandre-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="Alexandre-img" height="150" style="border-radius:50px;" src="view-source:https://www.instagram.com/p/CRXF981L1tB5WCAj9IJ4dAM12AwvmWIVIfBCf80/">
+</div>
