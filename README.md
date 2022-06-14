@@ -1,6 +1,6 @@
 # Seja bem-vindo ao meu GitHub.
 
-  ## Sou o Alexandre Medeiros ✌️
+  ## Sou o Alexandre Medeiros ✌️   <img align="center" alt="Alexandre-img" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/94659875/173669063-3b05f0c4-6de8-4446-aa0b-5cd1ab0d1015.png">
 
 ### - 🧑‍🎓 Atualmente estou graduando em Sistemas de informação e estou 2º Semestre.
 ### - 📚 Estou estudando JavaScript, HTML5 e CSS3.
@@ -9,5 +9,14 @@
   <img align="center" alt="Alexandre-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Alexandre-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Alexandre-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Alexandre-img" height="150" style="border-radius:50px;" src="view-source:https://www.instagram.com/p/CRXF981L1tB5WCAj9IJ4dAM12AwvmWIVIfBCf80/">
 </div>
+
+##
+ 
+<div>
+  <a href="https://instagram.com/alexandremsjr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:alexandremedeirosjunior@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/alexandre-medeiros-dos-santos-junior-83b820a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  </div>
+ 
