@@ -8,13 +8,19 @@
 <br> <br>
 e buscando uma oportunidade para inserção no mercado de trabalho.
 <br> <br>
-📚 Estou estudando JavaScript, HTML5 e CSS3.
+📚 Estou estudando TypeScript, JavaScript, HTML5, CSS3 e Angular.
 </div>
 
 <div align="center"><br>
+  <img align="center" alt="Alexandre-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg">
+  
   <img align="center" alt="Alexandre-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
   <img align="center" alt="Alexandre-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  
   <img align="center" alt="Alexandre-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+  <img align="center" alt="Alexandre-Angular" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-plain.svg">
 </div>
 
 ##
