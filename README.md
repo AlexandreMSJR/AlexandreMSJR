@@ -4,23 +4,33 @@
  </div>
  
 <div align="center"> 
- <h3> 🧑‍🎓 Atualmente estou graduando em Sistemas de informação 2º Semestre
+ <h3> 🧑‍🎓 Atualmente estou graduando em Sistemas de informação no 3º Semestre
 <br> <br>
-e buscando uma oportunidade para inserção no mercado de trabalho.
+e em busca da primeira oportunidade para inserção na área de tecnologia e desenvolvimento de software.
 <br> <br>
-📚 Estou estudando TypeScript, JavaScript, HTML5, CSS3 e Angular.
+📚 Estou estudando TypeScript(Ts), JavaScript(Js), HTML5, CSS3, NodeJs e SQL no momento.
 </div>
+ 
+ <div>
+  <h1 align="center">
+   Skills <img alt="Alexandre-SQL" height="50" width="60" src="https://cdn-icons-png.flaticon.com/512/2194/2194216.png">
+  </h1>
+ 
 
-<div align="center"><br>
-  <img align="center" alt="Alexandre-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg">
+  <div align="center"><br>
+   <img align="center" alt="Alexandre-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg">
+
+   <img align="center" alt="Alexandre-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+   <img align="center" alt="Alexandre-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+
+   <img align="center" alt="Alexandre-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+   <img align="center" alt="Alexandre-NodeJs" height="50" width="60"     src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg">
+
+   <img align="center" alt="Alexandre-SQL" height="50" width="60" src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png">
+ </div>
   
-  <img align="center" alt="Alexandre-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
-  <img align="center" alt="Alexandre-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  
-  <img align="center" alt="Alexandre-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  <img align="center" alt="Alexandre-Angular" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-plain.svg">
 </div>
 
 ##
