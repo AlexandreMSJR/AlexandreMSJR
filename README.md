@@ -37,10 +37,10 @@ e em busca da primeira oportunidade para inserção na área de tecnologia e des
 
 <div align="center">
   <a href="https://github.com/AlexandreMSJR">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexandreMSJR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreMSJR&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexandreMSJR&show_icons=true&theme=highcontrast"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreMSJR&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
-
+ 
 ##
  
 <div align="center">
